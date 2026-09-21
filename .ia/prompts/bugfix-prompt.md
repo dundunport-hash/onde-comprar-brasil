@@ -1,0 +1,1 @@
+Leia `.ia/core/context.md`. Use erro/log + 3–6 arquivos relevantes para achar a causa raiz e aplicar a menor correção. Não reformate/refatore fora do escopo e não rode validações. Sugira somente o comando manual mínimo no final.

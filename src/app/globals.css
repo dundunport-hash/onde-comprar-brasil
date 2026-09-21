@@ -1,0 +1,185 @@
+@import "tailwindcss";
+
+:root {
+  /* Identidade Onde Comprar Brasil: base clara, verde comercial, amarelo CTA e azul institucional. */
+  --background: #f6f8fb;
+  --foreground: #062257;
+  --surface: #ffffff;
+  --border: #dfe7ee;
+  --primary: #00923f;
+  --primary-foreground: #ffffff;
+  --secondary: #ffd600;
+  --muted: #617089;
+  --success: #00923f;
+  --warning: #d88a00;
+  --danger: #dc2626;
+  --accent: #003f9e;
+  --institutional: #003f9e;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1.125rem;
+  --radius-pill: 999px;
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2.5rem;
+  --shadow-sm: 0 2px 8px rgba(8, 34, 82, 0.06);
+  --shadow-md: 0 12px 30px rgba(8, 34, 82, 0.1);
+  --shadow-lg: 0 24px 80px rgba(8, 34, 82, 0.16);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-geist-sans);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-muted: var(--muted);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-accent: var(--accent);
+  --color-institutional: var(--institutional);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+::selection {
+  background: rgba(255, 213, 0, 0.75);
+  color: var(--foreground);
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+input,
+select,
+textarea {
+  color: var(--foreground);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: color-mix(in srgb, var(--muted) 78%, white);
+}
+
+table {
+  color: var(--foreground);
+}
+
+tbody tr {
+  transition: background-color 150ms ease;
+}
+
+tbody tr:hover {
+  background: rgba(0, 143, 63, 0.035);
+}
+
+[data-dashboard-shell] {
+  background:
+    radial-gradient(
+      circle at top left,
+      rgba(255, 213, 0, 0.16),
+      transparent 20rem
+    ),
+    var(--background);
+}
+
+[data-dashboard-shell] main {
+  width: 100%;
+}
+
+[data-dashboard-shell] main > div:first-child,
+[data-dashboard-shell] main > header:first-child {
+  border-color: rgba(0, 143, 63, 0.16);
+}
+
+[data-dashboard-shell] input,
+[data-dashboard-shell] select,
+[data-dashboard-shell] textarea,
+.admin-surface input,
+.admin-surface select,
+.admin-surface textarea {
+  min-height: 2.75rem;
+  border-radius: var(--radius-md);
+  background: var(--surface);
+}
+
+[data-dashboard-shell] table thead {
+  background: #eef7ee;
+  color: var(--foreground);
+}
+
+.catalog-dropdown-list {
+  scrollbar-width: none;
+}
+
+.catalog-dropdown-list::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes banner-fade {
+  from {
+    opacity: 0.25;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.responsive-banner-frame {
+  aspect-ratio: 1.18;
+  min-height: 24rem;
+}
+
+@media (min-width: 640px) {
+  .responsive-banner-frame {
+    aspect-ratio: 2.15;
+    min-height: 22rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-banner-frame {
+    aspect-ratio: 3.2;
+    min-height: 24rem;
+  }
+}

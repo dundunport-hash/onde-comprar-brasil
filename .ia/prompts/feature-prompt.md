@@ -1,0 +1,1 @@
+Leia `.ia/core/context.md` e apenas 1 contexto específico indicado pelo pedido. Inspecione 3–6 arquivos relevantes, planeje em até 5 itens e implemente o menor diff possível. Não rode validações automáticas. Finalize com arquivos alterados e comandos manuais opcionais.

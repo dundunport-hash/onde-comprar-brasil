@@ -1,0 +1,32 @@
+models:
+  - name: GPT
+    provider: openai
+    model: gpt-5.5
+
+context:
+  - provider: file
+  - provider: code
+  - provider: docs
+
+customCommands:
+  - name: architect
+    prompt: |
+      Leia:
+      - .ai/agents/architect.md
+      - .ai/core/architecture.md
+
+      Atue como arquiteto.
+
+  - name: frontend
+    prompt: |
+      Leia:
+      - .ai/agents/frontend.md
+
+      Atue como frontend specialist.
+
+  - name: qa
+    prompt: |
+      Leia:
+      - .ai/agents/qa.md
+
+      Gere testes completos.

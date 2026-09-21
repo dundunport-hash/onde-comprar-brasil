@@ -1,0 +1,1 @@
+Use somente quando o usuário pedir testes explicitamente. Crie apenas os testes necessários ao comportamento solicitado, seguindo a stack já instalada. Nunca instalar framework de testes sem autorização.

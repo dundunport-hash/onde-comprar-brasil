@@ -1,0 +1,357 @@
+[
+  {
+    "id": "fc812a7f-c661-4d75-9b00-9e08f88e0160",
+    "name": "Curc Arnica Hypera Pharma 100mL",
+    "slug": "curc-arnica-hypera-pharma-100ml",
+    "description": "Curc Arnica Hypera Pharma 100mL.\r\n\r\nCurc Arnica combina Cúrcuma Longa e Arnica em uma fórmula cosmética desenvolvida para proporcionar sensação refrescante e auxiliar no alívio das tensões do dia a dia. Possui embalagem prática em tubo, facilitando a aplicação durante a rotina de cuidados pessoais.\r\n\r\nCaracterísticas do produto.\r\nFórmula com Cúrcuma Longa + Arnica.\r\nAção refrescante.\r\nAuxilia no alívio das tensões do dia a dia.\r\nCosmético de uso externo.\r\nEmbalagem em tubo.\r\nConteúdo: 100 mL.\r\nNotificação Grau II.\r\nValidade: 36 meses.",
+    "technicalData": "Produto.\r\n\r\nNome: Curc Arnica.\r\nMarca/Fabricante: Hypera Pharma.\r\nCategoria: Cosmético.\r\nTipo: Produto tópico / uso externo.\r\nApresentação: Tubo.\r\nConteúdo: 100 mL.\r\nPrincípio/Ativo informado: Cúrcuma Longa + Arnica.\r\nEAN unidade: 7896094931169.\r\nEAN caixa: 17896094931166.\r\nQuantidade por caixa: 12 unidades.\r\nNCM: 33049990\r\n\r\nInformações fiscais/logísticas.\r\nNCM: 33049990.\r\nUnidades por caixa: 12.\r\nPeso líquido: 100 g.\r\nPeso bruto: 170 g.\r\n\r\nDimensões unidade:.\r\n45 × 45 × 126 mm.\r\n\r\nDimensões caixa:.\r\n204 × 156 × 156 mm.",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781704983/drogaria-mega-popular/pn6qqbofeezocshi6qg3.png",
+    "imageUrl2": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781704984/drogaria-mega-popular/nfh1xusei33vbcvpspux.png",
+    "imageUrl3": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781704985/drogaria-mega-popular/v01x788vg9vbtvnil1it.png",
+    "ean": "7896094931169",
+    "price": 84.99,
+    "stock": 2,
+    "active": false,
+    "categoryId": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+    "createdAt": "2026-06-17T14:03:10.840Z",
+    "updatedAt": "2026-06-24T20:10:58.006Z",
+    "category": {
+      "id": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+      "name": "Suplementos",
+      "slug": "suplementos"
+    },
+    "promotions": [
+      {
+        "id": "ef01fe61-8f98-472c-90bb-72ab93fcefda",
+        "name": "Desconto inicial",
+        "description": "Desconto cadastrado junto com o produto.",
+        "discountPercent": 2,
+        "discountFixed": 0,
+        "startDate": "2026-06-17T14:03:10.820Z",
+        "endDate": "2036-06-17T14:03:10.820Z",
+        "active": true,
+        "productId": "fc812a7f-c661-4d75-9b00-9e08f88e0160",
+        "createdAt": "2026-06-17T14:03:10.840Z",
+        "updatedAt": "2026-06-17T14:03:10.840Z"
+      }
+    ],
+    "stocks": [
+      {
+        "id": "eedc3d1a-6382-4575-b9c5-a81c96ae101f",
+        "productId": "fc812a7f-c661-4d75-9b00-9e08f88e0160",
+        "batch": "LEGADO",
+        "quantity": 1,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-23T20:17:21.870Z",
+        "createdAt": "2026-06-23T20:17:21.870Z",
+        "updatedAt": "2026-06-23T20:17:21.870Z"
+      },
+      {
+        "id": "5f8641b1-0ba8-4fd7-8d9c-42a1cfdb0f4e",
+        "productId": "fc812a7f-c661-4d75-9b00-9e08f88e0160",
+        "batch": "1",
+        "quantity": 97,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": "2027-08-22T03:00:00.000Z",
+        "receivedAt": "2026-06-17T15:03:31.420Z",
+        "createdAt": "2026-06-17T15:03:31.420Z",
+        "updatedAt": "2026-06-24T14:56:48.247Z"
+      }
+    ]
+  },
+  {
+    "id": "56f498c3-1f28-4ff1-b967-25b7b7030873",
+    "name": "Curc Creatina Cosmed 30 Sachês",
+    "slug": "curc-creatina-cosmed-30-saches",
+    "description": "Curc Creatina Cosmed 30 Sachês\r\n\r\nSuplemento alimentar desenvolvido com combinação de Cúrcuma Longa, Creatina monoidratada, Magnésio bisglicinato e Arginina. Sua fórmula auxilia no desempenho físico e no funcionamento muscular, sendo uma opção prática para complementar a rotina de atividades físicas.\r\n\r\nCaracterísticas do produto.\r\nSuplemento alimentar em sachês individuais.\r\nAuxilia no desempenho físico.\r\nAuxilia no funcionamento muscular.\r\nContém creatina monoidratada.\r\nContém magnésio bisglicinato.\r\nContém arginina.\r\nEmbalagem prática para consumo diário.\r\nQuantidade: 30 sachês de 7,3 g.\r\n\r\nComposição informada.\r\nCúrcuma Longa.\r\nCreatina monoidratada.\r\nMagnésio bisglicinato.\r\nArginina.",
+    "technicalData": "Produto.\r\n\r\nNome: Curc Creatina.\r\nFabricante: Cosmed Ind Cosm Med S/A.\r\nCategoria: Suplemento Alimentar.\r\nApresentação: Caixa com sachês.\r\nConteúdo: 30 sachês × 7,3 g.\r\nConteúdo total: 219 g (aprox.).\r\nEAN unidade: 7891142984722.\r\nEAN caixa: 17891142984729.\r\nQuantidade por caixa: 18 unidades.\r\nNCM: 2106 90 30.\r\n\r\nInformações fiscais/logísticas.\r\nNCM: 2106 90 30.\r\nUnidades por caixa: 18.\r\nPeso líquido: 210 g.\r\nPeso bruto: 335 g.\r\n\r\nDimensões unidade:.\r\n155 × 140 × 140 mm.\r\n\r\nDimensões caixa:.\r\n478 × 428 × 306 mm.\r\n\r\nValidade: 24 meses.\r\n\r\nStatus: Liberado.",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781710067/drogaria-mega-popular/d17ngadlqs2q5in8pvfl.png",
+    "imageUrl2": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781710069/drogaria-mega-popular/xqd9ugw6jy9zjsw4mlc6.png",
+    "imageUrl3": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781710071/drogaria-mega-popular/az3mk5yrsszwmzgtnjdz.png",
+    "ean": "7891142984722",
+    "price": 219,
+    "stock": 2,
+    "active": true,
+    "categoryId": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+    "createdAt": "2026-06-17T15:27:58.169Z",
+    "updatedAt": "2026-06-24T20:09:11.962Z",
+    "category": {
+      "id": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+      "name": "Suplementos",
+      "slug": "suplementos"
+    },
+    "promotions": [
+      {
+        "id": "fb57f44a-8d42-4f9f-8a70-d9645a7ff9e0",
+        "name": "Desconto inicial",
+        "description": "Desconto cadastrado junto com o produto.",
+        "discountPercent": 2.99,
+        "discountFixed": 0,
+        "startDate": "2026-06-17T15:27:58.165Z",
+        "endDate": "2036-06-17T15:27:58.165Z",
+        "active": true,
+        "productId": "56f498c3-1f28-4ff1-b967-25b7b7030873",
+        "createdAt": "2026-06-17T15:27:58.169Z",
+        "updatedAt": "2026-06-17T15:27:58.169Z"
+      }
+    ],
+    "stocks": [
+      {
+        "id": "67af081f-b7ef-4bf3-a1dc-f1ef4b21efae",
+        "productId": "56f498c3-1f28-4ff1-b967-25b7b7030873",
+        "batch": "Lote inicial",
+        "quantity": 100,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-17T15:27:58.169Z",
+        "createdAt": "2026-06-17T15:27:58.169Z",
+        "updatedAt": "2026-06-17T15:27:58.169Z"
+      }
+    ]
+  },
+  {
+    "id": "a519006e-e36f-47ae-9156-6e063e6f9dca",
+    "name": "Colflex Whey Chocolate Cosmed — 10 Sachês",
+    "slug": "colflex-whey-chocolate-cosmed-10-saches",
+    "description": "Produto.\r\nColflex Whey Chocolate Cosmed — 10 Sachês.\r\n\r\nColflex Whey é um alimento desenvolvido com combinação de colágeno hidrolisado, whey protein, magnésio e cafeína. Possui sabor chocolate e apresentação prática em sachês individuais, ideal para complementar a rotina diária.\r\n\r\nComposição informada.\r\nColágeno hidrolisado.\r\nWhey protein.\r\nMagnésio.\r\nCafeína.\r\n\r\nCaracterísticas do produto.\r\n\r\nSabor: Chocolate.\r\nContém whey protein.\r\nContém colágeno hidrolisado.\r\nContém magnésio.\r\nContém cafeína.\r\nAuxilia no funcionamento muscular.\r\nFormato prático em sachês.\r\nQuantidade: 10 sachês.",
+    "technicalData": "Produto.\r\n\r\nNome: Colflex Whey (Chocolate).\r\nFabricante: Cosmed Ind Cosm Med S/A.\r\nCategoria: Alimento / Suplemento alimentar.\r\nApresentação: Display com sachês.\r\nSabor: Chocolate.\r\nConteúdo: 10 sachês.\r\nEAN unidade: 7896094932647.\r\nEAN caixa: 17896094932644.\r\nQuantidade por caixa: 12 unidades.\r\nNCM: 1806 90 00.\r\n\r\nInformações fiscais/logísticas.\r\nPeso líquido: 285 g.\r\nPeso bruto: 358 g.\r\n\r\nDimensões unidade:.\r\n111 × 73 × 166 mm.\r\n\r\nDimensões caixa:.\r\n351 × 306 × 186 mm.\r\n\r\nValidade: 24 meses.\r\n\r\nRegistro: Alimento isento de registro.",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781710688/drogaria-mega-popular/sgrpbizbxw9njovaburp.png",
+    "imageUrl2": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781710690/drogaria-mega-popular/medjajlglydynfkoorfy.png",
+    "imageUrl3": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781710696/drogaria-mega-popular/hcp8ex9nvqsnvsbqftfg.png",
+    "ean": "7896094932647",
+    "price": 169.9,
+    "stock": 1,
+    "active": true,
+    "categoryId": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+    "createdAt": "2026-06-17T15:38:20.473Z",
+    "updatedAt": "2026-06-24T20:07:04.658Z",
+    "category": {
+      "id": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+      "name": "Suplementos",
+      "slug": "suplementos"
+    },
+    "promotions": [
+      {
+        "id": "91d9c8c7-c5bb-4229-876d-c9b638434af8",
+        "name": "Desconto inicial",
+        "description": "Desconto cadastrado junto com o produto.",
+        "discountPercent": 3.99,
+        "discountFixed": 0,
+        "startDate": "2026-06-17T15:38:20.466Z",
+        "endDate": "2036-06-17T15:38:20.466Z",
+        "active": true,
+        "productId": "a519006e-e36f-47ae-9156-6e063e6f9dca",
+        "createdAt": "2026-06-17T15:38:20.473Z",
+        "updatedAt": "2026-06-17T15:38:20.473Z"
+      }
+    ],
+    "stocks": [
+      {
+        "id": "281c7552-80a5-447a-a7af-632153327a68",
+        "productId": "a519006e-e36f-47ae-9156-6e063e6f9dca",
+        "batch": "Lote inicial",
+        "quantity": 99,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-17T15:38:20.473Z",
+        "createdAt": "2026-06-17T15:38:20.473Z",
+        "updatedAt": "2026-06-23T16:23:51.331Z"
+      }
+    ]
+  },
+  {
+    "id": "996f23e6-22ae-4746-ab1e-4afa7399bbca",
+    "name": "Colflex Hialu Cosmed — 30 Comprimidos.",
+    "slug": "colflex-hialu-cosmed-30-comprimidos",
+    "description": "Colflex Hialu Cosmed — 30 Comprimidos.\r\n\r\nColflex Hialu é um suplemento alimentar desenvolvido com a combinação de Colágeno Tipo II não desnaturado, MSM e Ácido Hialurônico. Sua fórmula foi criada para complementar a suplementação diária de nutrientes relacionados ao colágeno, em uma apresentação prática com comprimidos revestidos.\r\n\r\nComposição informada.\r\nColágeno tipo II não desnaturado.\r\nMSM (Metilsulfonilmetano).\r\nÁcido hialurônico.\r\n\r\nCaracterísticas do produto.\r\nSuplemento alimentar\r\nContém Colágeno Tipo II não desnaturado\r\nContém MSM.\r\nContém Ácido Hialurônico\r\nApresentação em comprimidos revestidos\r\nEmbalagem com 30 comprimidos\r\nPrático para consumo diário",
+    "technicalData": "Produto.\r\n\r\nNome: Colflex Hialu.\r\nFabricante: Cosmed Ind Cosm Med S/A.\r\nCategoria: Suplemento alimentar.\r\nApresentação: Frasco com comprimidos.\r\nConteúdo: 30 comprimidos revestidos.\r\nEAN unidade: 7896094921498.\r\nEAN caixa: 17896094921495.\r\nQuantidade por caixa: 24 unidades.\r\nNCM: 2106 90 30.",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781727987/drogaria-mega-popular/uxumg4n35j6zw4aaszu3.png",
+    "imageUrl2": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781727990/drogaria-mega-popular/ksbwc4joesbrkiskblbr.png",
+    "imageUrl3": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781727998/drogaria-mega-popular/rbddhrqschz4ssdoi9x4.png",
+    "ean": "7896094921498",
+    "price": 183,
+    "stock": 3,
+    "active": true,
+    "categoryId": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+    "createdAt": "2026-06-17T20:26:44.634Z",
+    "updatedAt": "2026-06-24T20:06:19.879Z",
+    "category": {
+      "id": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+      "name": "Suplementos",
+      "slug": "suplementos"
+    },
+    "promotions": [
+      {
+        "id": "6224c08a-3056-4af0-b132-4aea830e3b84",
+        "name": "Desconto inicial",
+        "description": "Desconto cadastrado junto com o produto.",
+        "discountPercent": 2.99,
+        "discountFixed": 0,
+        "startDate": "2026-06-17T20:26:44.632Z",
+        "endDate": "2036-06-17T20:26:44.632Z",
+        "active": true,
+        "productId": "996f23e6-22ae-4746-ab1e-4afa7399bbca",
+        "createdAt": "2026-06-17T20:26:44.634Z",
+        "updatedAt": "2026-06-17T20:26:44.634Z"
+      }
+    ],
+    "stocks": [
+      {
+        "id": "61a2a00b-27e7-4266-b7a4-6a32ca660e5d",
+        "productId": "996f23e6-22ae-4746-ab1e-4afa7399bbca",
+        "batch": "Lote inicial",
+        "quantity": 100,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-17T20:26:44.634Z",
+        "createdAt": "2026-06-17T20:26:44.634Z",
+        "updatedAt": "2026-06-17T20:26:44.634Z"
+      }
+    ]
+  },
+  {
+    "id": "649ceebf-b742-4e32-a7f4-860b31988407",
+    "name": "Colflex Trio Cosmed — 30 Sachês",
+    "slug": "colflex-trio-cosmed-30-saches",
+    "description": "Colflex Trio Cosmed — 30 Sachês.\r\n\r\nColflex Trio é um suplemento alimentar desenvolvido com uma combinação de colágeno hidrolisado, MSM, colágeno tipo II não hidrolisado, vitaminas e magnésio. Sua fórmula auxilia na suplementação diária de nutrientes relacionados ao colágeno, com apresentação prática em sachês individuais.\r\n\r\nComposição informada.\r\nColágeno hidrolisado.\r\nMSM (Metilsulfonilmetano).\r\nColágeno tipo II não hidrolisado.\r\nVitamina C.\r\nVitamina D.\r\nVitamina B5.\r\nVitamina B6.\r\nVitamina B9.\r\nVitamina B12.\r\nMagnésio.\r\n\r\nCaracterísticas do produto.\r\nSuplemento alimentar\r\nContém colágeno hidrolisado\r\nContém MSM (metilsulfonilmetano).\r\nContém colágeno tipo II não hidrolisado\r\nContém vitaminas C, D e complexo B\r\nContém magnésio.\r\nApresentação em sachês\r\nQuantidade: 30 sachês\r\nFácil armazenamento e transporte",
+    "technicalData": "Produto.\r\n\r\nNome: Colflex Trio.\r\nFabricante: Cosmed Ind Cosm Med S/A.\r\nCategoria: Suplemento Alimentar.\r\nApresentação: Display com sachês.\r\nConteúdo: 30 sachês.\r\nEAN unidade: 7896094920255.\r\nCódigo interno: 20791-0.\r\nEAN caixa: 17896094920252.\r\nQuantidade por caixa: 18 unidades.\r\nNCM: 2106 90 30.\r\n\r\nInformações fiscais/logísticas.\r\nNCM: 2106 90 30.\r\nUnidades por caixa: 18.\r\nPeso líquido: N/A.\r\nPeso bruto unidade: 484 g.\r\nPeso bruto caixa: 9.012 g.\r\n\r\nDimensões unidade:.\r\n153 × 138 × 138 mm.\r\n\r\nDimensões caixa:.\r\n473 × 423 × 297 mm.\r\n\r\nVolume unidade:.\r\n3 301 303 50 mm3.\r\n\r\nVolume caixa:\r\n59 423 463 mm3.\r\n\r\nValidade: 24 meses.\r\n\r\nRegistro: Alimento — Isento de registro.",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781729003/drogaria-mega-popular/ymzvs7ajctfevs423l1v.png",
+    "imageUrl2": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781729007/drogaria-mega-popular/hqlbuc9b6dn4rf4zfcmm.png",
+    "imageUrl3": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781729011/drogaria-mega-popular/isgcf6gdcdefhkl3sbpw.png",
+    "ean": "7896094920255",
+    "price": 186.23,
+    "stock": 1,
+    "active": true,
+    "categoryId": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+    "createdAt": "2026-06-17T20:43:34.009Z",
+    "updatedAt": "2026-06-24T20:05:34.035Z",
+    "category": {
+      "id": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+      "name": "Suplementos",
+      "slug": "suplementos"
+    },
+    "promotions": [
+      {
+        "id": "8a4c94da-98ea-4a30-9cdc-9a77df3aea3f",
+        "name": "Desconto inicial",
+        "description": "Desconto cadastrado junto com o produto.",
+        "discountPercent": 0.99,
+        "discountFixed": 0,
+        "startDate": "2026-06-17T20:43:34.008Z",
+        "endDate": "2036-06-17T20:43:34.008Z",
+        "active": true,
+        "productId": "649ceebf-b742-4e32-a7f4-860b31988407",
+        "createdAt": "2026-06-17T20:43:34.009Z",
+        "updatedAt": "2026-06-17T20:43:34.009Z"
+      }
+    ],
+    "stocks": [
+      {
+        "id": "b7b50e74-5cd7-428f-b3bc-74b7311e20dc",
+        "productId": "649ceebf-b742-4e32-a7f4-860b31988407",
+        "batch": "Lote inicial",
+        "quantity": 98,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-17T20:43:34.009Z",
+        "createdAt": "2026-06-17T20:43:34.009Z",
+        "updatedAt": "2026-06-18T20:04:42.479Z"
+      }
+    ]
+  },
+  {
+    "id": "1450dc74-5d3c-486a-9090-9090b7afb086",
+    "name": "Colflex Bio Colágeno Tipo Ll 90",
+    "slug": "colflex-bio-colageno-tipo-ll-90",
+    "description": "Colflex Bio Colágeno Tipo II é um suplemento alimentar desenvolvido pela Mantecorp, ideal para quem busca fortalecer articulações e melhorar a saúde da pele. Com 90 comprimidos de colágeno tipo II não hidrolisado, cada unidade contém 500 mg de colágeno puro, promovendo benefícios nutricionais significativos.\r\n\r\nEste produto é livre de glúten e não possui sabor, facilitando a inclusão na sua rotina diária. A fórmula é especialmente recomendada para adultos a partir de 19 anos, proporcionando suporte essencial para a manutenção da elasticidade e resistência das articulações.\r\n\r\nA embalagem prática em caixa garante a preservação da qualidade do produto, permitindo que você tenha sempre à mão uma solução eficaz para suas necessidades nutricionais. Invista na sua saúde e bem-estar com Colflex Bio Colágeno Tipo II, um aliado na busca por uma vida ativa e saudável.\r\n\r\nAviso legal.\r\nIdade mínima recomendada: 19 anos.\r\nConsumir junto com alimentos para facilitar sua assimilação.\r\nEste produto é um suplemento dietético, não um medicamento. Suplementa dietas insuficientes. Consulte o seu médico e/ou farmacêutico.",
+    "technicalData": "Peso líquido: 500 mg.\r\nPeso da unidade: 1.72 g.\r\nVolume da unidade: 0.5 mL.\r\nUnidades por embalagem: 90.\r\nUnidades por kit: 1.\r\nSabor: Sem sabor.\r\nTipo de embalagem: Caixa.\r\nSuplemento de uso nutricional.\r\nSem glúten.\r\nIdade mínima recomendada: 19 anos.",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781806579/drogaria-mega-popular/mvjdoe3pbceiwngycxrv.png",
+    "imageUrl2": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781806575/drogaria-mega-popular/uhxrlbuvwslzmwzwnwc2.png",
+    "imageUrl3": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1781806578/drogaria-mega-popular/hpjz5myhih9yb86roj7q.png",
+    "ean": "7896094929524",
+    "price": 158.26,
+    "stock": 2,
+    "active": true,
+    "categoryId": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+    "createdAt": "2026-06-18T18:16:27.068Z",
+    "updatedAt": "2026-06-24T20:04:46.424Z",
+    "category": {
+      "id": "9c6a2ef0-e6fd-4f64-bb87-98a2cfc4edb5",
+      "name": "Suplementos",
+      "slug": "suplementos"
+    },
+    "promotions": [
+      {
+        "id": "d0454f60-7f52-4514-ae62-4bc309cdd03b",
+        "name": "Desconto inicial",
+        "description": "Desconto cadastrado junto com o produto.",
+        "discountPercent": 3,
+        "discountFixed": 0,
+        "startDate": "2026-06-18T18:16:27.064Z",
+        "endDate": "2036-06-18T18:16:27.064Z",
+        "active": true,
+        "productId": "1450dc74-5d3c-486a-9090-9090b7afb086",
+        "createdAt": "2026-06-18T18:16:27.068Z",
+        "updatedAt": "2026-06-18T18:16:27.068Z"
+      }
+    ],
+    "stocks": [
+      {
+        "id": "e6652338-db16-4957-822d-01ab80bac0d8",
+        "productId": "1450dc74-5d3c-486a-9090-9090b7afb086",
+        "batch": "Lote inicial",
+        "quantity": 99,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-18T18:16:27.068Z",
+        "createdAt": "2026-06-18T18:16:27.068Z",
+        "updatedAt": "2026-06-24T15:26:03.580Z"
+      }
+    ]
+  },
+  {
+    "id": "f9c7c57d-03ef-44b5-96f0-24bfb5619498",
+    "name": "Teste pix",
+    "slug": "teste-pix",
+    "description": "Teste pix",
+    "technicalData": "Teste pix",
+    "imageUrl": "https://res.cloudinary.com/de1bxtbeb/image/upload/v1782391365/drogaria-mega-popular/cvvkqztyr3rlxwhschkn.png",
+    "imageUrl2": null,
+    "imageUrl3": null,
+    "ean": "74365463546372",
+    "price": 0.1,
+    "stock": 7,
+    "active": true,
+    "categoryId": "54852505-2316-4148-9a6d-e3414d3f8641",
+    "createdAt": "2026-06-25T12:44:24.650Z",
+    "updatedAt": "2026-06-25T13:57:49.969Z",
+    "category": {
+      "id": "54852505-2316-4148-9a6d-e3414d3f8641",
+      "name": "Maquiagem",
+      "slug": "maquiagem"
+    },
+    "promotions": [],
+    "stocks": [
+      {
+        "id": "a3c2d650-12cd-4baf-9584-121bc156f02e",
+        "productId": "f9c7c57d-03ef-44b5-96f0-24bfb5619498",
+        "batch": "Lote inicial",
+        "quantity": 7,
+        "reservedQuantity": 0,
+        "minimumQuantity": 0,
+        "expirationDate": null,
+        "receivedAt": "2026-06-25T12:44:24.650Z",
+        "createdAt": "2026-06-25T12:44:24.650Z",
+        "updatedAt": "2026-06-25T13:57:49.152Z"
+      }
+    ]
+  }
+]

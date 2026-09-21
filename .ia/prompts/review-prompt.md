@@ -1,0 +1,1 @@
+Leia `.ia/core/context.md`. Revise apenas o diff/arquivos indicados: bugs, regressões, tipos, segurança, acessibilidade e complexidade. Não reescreva por preferência e não rode testes. Retorne correções mínimas.

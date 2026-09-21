@@ -1,0 +1,1 @@
+Leia `.ia/core/context.md` + no máximo 1 arquivo de domínio necessário. Reutilize o padrão existente e implemente só o necessário. Sem refactor paralelo e sem testes/build/lint/typecheck automáticos. Final curto + comandos manuais opcionais.

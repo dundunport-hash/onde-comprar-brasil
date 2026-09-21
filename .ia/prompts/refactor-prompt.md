@@ -1,0 +1,1 @@
+Leia `.ia/core/context.md`. Refatore somente o alvo, preserve comportamento/API pública e evite abstrações sem ganho claro. Revise o diff; não execute validações. Finalize com comandos manuais opcionais.
