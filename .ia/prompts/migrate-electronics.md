@@ -1,1 +1,0 @@
-Leia `.ia/core/context.md` e a etapa atual de `.ia/roadmap.md`. Execute SOMENTE essa etapa, preservando funcionalidades e removendo legado farmacêutico apenas quando envolvido. Não rode validações. Marque a etapa só após revisar o diff.
